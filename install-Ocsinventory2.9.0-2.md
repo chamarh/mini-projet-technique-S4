@@ -147,11 +147,11 @@ Step 8 - Configure Firewall
 
 #firewall-cmd --reload
 
-# firewall-cmd --zone=public --permanent --add-service=http
+#firewall-cmd --zone=public --permanent --add-service=http
 
-# firewall-cmd --zone=public --permanent --add-service=https
+#firewall-cmd --zone=public --permanent --add-service=https
 
-# firewall-cmd --reload
+#firewall-cmd --reload
 
 -------------------------------------------
 go to the browser and enter this link

@@ -15,6 +15,7 @@ Step 2 - Install MariaDB Database 10x
 #vim /etc/yum.repos.d/MariaDB.repo
 
 *add this code to the file created: 
+
 ---------------------
 [mariadb]
 name = MariaDB

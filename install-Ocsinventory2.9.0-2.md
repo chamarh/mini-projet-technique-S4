@@ -1,14 +1,3 @@
-step 0 - disable selinux :
-
-#vim /etc/selinux/config
-
-change the option of SELINUX in the /etc/selinux/config file to :
-
-SELINUX=disabled
-
-* then restart the server 
--------------------------------------------
-
 Step 1 - Install Apache
 
 #yum install -y httpd
